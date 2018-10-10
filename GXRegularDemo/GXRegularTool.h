@@ -13,4 +13,5 @@
 + (NSArray *)regexStringtotal:(NSString *)regexString fromContentString:(NSString *)contentString;
 
 + (NSArray *)regexString:(NSString *)regexString fromContentString:(NSString *)contentString;
+
 @end
