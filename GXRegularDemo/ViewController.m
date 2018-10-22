@@ -9,6 +9,7 @@
 #import "ViewController.h"
 #import "GXRegularTool.h"
 
+// 测试字符
 NSString *string = @"12345,<http://www.google.com>abcdefg<http://www.baidu.com>测试测试,<http://www.google.com>应该是没问题啦";
 NSString *str = @"\\<(.*?)\\>";
 
